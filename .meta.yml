@@ -1,0 +1,6 @@
+docs_site: "https://docs.macroquest.org/"
+docs_repository: "https://github.com/macroquest/docs"
+docs_edit_uri: "edit/master/"
+docs_path_transform:
+  from: "projects/macroquest/"
+  to: ""

@@ -1,6 +1,13 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2autologin.86"
+support_link: "https://www.redguides.com/community/threads/mq2autologin.43323/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/autologin"
+config: "MQ2AutoLogin.ini"
+authors: "ieatacid, eqmule, SwiftyMUSE, Derple, dannuic, Knightly, brainiac, Special Ed"
+tagline: "Log in your characters automatically"
+quick_start: "https://www.redguides.com/community/resources/mq2autologin.86/"
 ---
 # AutoLogin
 <!--desc-start-->

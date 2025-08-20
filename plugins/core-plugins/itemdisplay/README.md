@@ -1,6 +1,12 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2itemdisplay.136/"
+support_link: "https://www.redguides.com/community/threads/mq2itemdisplay.66840/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/itemdisplay"
+config: "MQ2ItemDisplay.ini"
+authors: "Plazmic, lax, amadeus, dkaa, brainiac, eqmule, Knightly, dannuic"
+tagline: "This plugin shows spell and item data in their respective display windows"
 ---
 # ItemDisplay
 <!--desc-start-->

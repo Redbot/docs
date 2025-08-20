@@ -1,6 +1,12 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2targetinfo.191/"
+support_link: "https://www.redguides.com/community/threads/mq2targetinfo.66890/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/targetinfo"
+config: "mq2targetinfo.ini"
+authors: "eqmule"
+tagline: "Distance, line of sight and place holder info directly on target. New buttons for your group window. Mimic me, come to me, follow me."
 ---
 # TargetInfo
 

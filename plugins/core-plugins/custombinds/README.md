@@ -1,6 +1,12 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2custombinds.115/"
+support_link: "https://www.redguides.com/community/threads/mq2custombinds.66819/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/custombinds"
+config: "MQ2CustomBinds.ini, MQ2CustomBinds.txt"
+authors: "Amadeus, eqmule, BigDorf, Knightly"
+tagline: "Allows you to specify custom commands that are executed when specific key combinations are pressed."
 ---
 # CustomBinds
 <!--desc-start-->

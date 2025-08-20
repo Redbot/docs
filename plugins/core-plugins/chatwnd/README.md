@@ -1,6 +1,12 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2chatwnd.110/"
+support_link: "https://www.redguides.com/community/threads/mq2chatwnd.66815/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/chatwnd"
+config: "MQ2ChatWnd.ini"
+authors: "Lax, eqmule, brainiac, Knightly, dannuic"
+tagline: "A window that displays all output from MacroQuest"
 ---
 # ChatWnd
 <!--desc-start-->

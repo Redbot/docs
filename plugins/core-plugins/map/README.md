@@ -1,6 +1,13 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2map.142/"
+support_link: "https://www.redguides.com/community/threads/mq2map.66847/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/map"
+config: "MQ2Map.ini"
+authors: "lax, amadeus, brainiac, eqmule, alynel, Knightly, dannuic, ChatWithThisName"
+tagline: "Provides additional functionality to the in-game map."
+quick_start: "https://www.youtube.com/watch?v=0y_qBZeqcWI"
 ---
 # Map
 

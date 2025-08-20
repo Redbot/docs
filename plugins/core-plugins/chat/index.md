@@ -1,6 +1,11 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2chat.109/"
+support_link: "https://www.redguides.com/community/threads/mq2chat.66814/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/chat"
+authors: "Lax, dannuic"
+tagline: "Enables MQ Output to your regular chat window"
 ---
 # Chat
 <!--desc-start-->

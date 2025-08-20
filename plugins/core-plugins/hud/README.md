@@ -1,6 +1,12 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2hud.133/"
+support_link: "https://www.redguides.com/community/threads/mq2hud.26133"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/hud"
+config: "MQ2HUD.ini"
+authors: "Lax, Cr4zyb4rd, eqmule, brainiac, Knightly, dannuic"
+tagline: "Draws an overlay onto the screen to display information"
 ---
 # HUD
 <!--desc-start-->

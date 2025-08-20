@@ -1,6 +1,13 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/mq2xtarinfo.2277/"
+support_link: "https://www.redguides.com/community/threads/mq2xtarinfo.79632/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/xtarinfo"
+config: "MQ2XTarInfo.ini"
+authors: "Knightly, eqmule"
+tagline: "XTarInfo shows distance for extended targets"
+acknowledgements: "eqmule, MQ2TargetInfo"
 ---
 # XTarInfo
 

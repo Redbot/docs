@@ -1,6 +1,12 @@
 ---
 tags:
-   - plugin
+  - plugin
+resource_link: "https://www.redguides.com/community/resources/autobank.2616/"
+support_link: "https://www.redguides.com/community/threads/autobank.83743/"
+repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/autobank"
+authors: "ChatWithThisName, eqmule, Kaen01"
+tagline: "automatically bank certain types of items"
+quick_start: "https://www.redguides.com/community/resources/autobank.2616/"
 ---
 # AutoBank
 <!--desc-start-->
