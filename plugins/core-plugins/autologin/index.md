@@ -8,6 +8,8 @@ config: "MQ2AutoLogin.ini"
 authors: "ieatacid, eqmule, SwiftyMUSE, Derple, dannuic, Knightly, brainiac, Special Ed"
 tagline: "Log in your characters automatically"
 quick_start: "https://www.redguides.com/community/resources/mq2autologin.86/"
+search:
+  boost: 2
 ---
 # AutoLogin
 <!--desc-start-->

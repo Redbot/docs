@@ -7,6 +7,8 @@ repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/hu
 config: "MQ2HUD.ini"
 authors: "Lax, Cr4zyb4rd, eqmule, brainiac, Knightly, dannuic"
 tagline: "Draws an overlay onto the screen to display information"
+search:
+  boost: 2
 ---
 # HUD
 <!--desc-start-->

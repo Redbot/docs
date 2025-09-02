@@ -6,6 +6,8 @@ support_link: "https://www.redguides.com/community/threads/mq2bzsrch.66811/"
 repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/bzsrch"
 authors: "DKAA, CyberCide, Lax, eqmule, Alynel, Knightly, dannuic, brainiac"
 tagline: "Adds command line usage of bazaar and a TLO for interpreting information."
+search:
+  boost: 2
 ---
 # Bzsrch
 <!--desc-start-->

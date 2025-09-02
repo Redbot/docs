@@ -7,6 +7,8 @@ repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/ta
 config: "mq2targetinfo.ini"
 authors: "eqmule"
 tagline: "Distance, line of sight and place holder info directly on target. New buttons for your group window. Mimic me, come to me, follow me."
+search:
+  boost: 2
 ---
 # TargetInfo
 

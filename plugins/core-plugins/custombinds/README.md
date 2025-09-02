@@ -7,6 +7,8 @@ repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/cu
 config: "MQ2CustomBinds.ini, MQ2CustomBinds.txt"
 authors: "Amadeus, eqmule, BigDorf, Knightly"
 tagline: "Allows you to specify custom commands that are executed when specific key combinations are pressed."
+search:
+  boost: 2
 ---
 # CustomBinds
 <!--desc-start-->

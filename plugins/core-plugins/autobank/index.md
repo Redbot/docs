@@ -7,6 +7,8 @@ repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/au
 authors: "ChatWithThisName, eqmule, Kaen01"
 tagline: "automatically bank certain types of items"
 quick_start: "https://www.redguides.com/community/resources/autobank.2616/"
+search:
+  boost: 2
 ---
 # AutoBank
 <!--desc-start-->

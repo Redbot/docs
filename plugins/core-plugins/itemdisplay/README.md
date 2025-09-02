@@ -7,6 +7,8 @@ repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/it
 config: "MQ2ItemDisplay.ini"
 authors: "Plazmic, lax, amadeus, dkaa, brainiac, eqmule, Knightly, dannuic"
 tagline: "This plugin shows spell and item data in their respective display windows"
+search:
+  boost: 2
 ---
 # ItemDisplay
 <!--desc-start-->

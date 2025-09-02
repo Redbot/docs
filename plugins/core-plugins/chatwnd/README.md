@@ -7,6 +7,8 @@ repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/ch
 config: "MQ2ChatWnd.ini"
 authors: "Lax, eqmule, brainiac, Knightly, dannuic"
 tagline: "A window that displays all output from MacroQuest"
+search:
+  boost: 2
 ---
 # ChatWnd
 <!--desc-start-->

@@ -8,6 +8,8 @@ config: "MQ2Map.ini"
 authors: "lax, amadeus, brainiac, eqmule, alynel, Knightly, dannuic, ChatWithThisName"
 tagline: "Provides additional functionality to the in-game map."
 quick_start: "https://www.youtube.com/watch?v=0y_qBZeqcWI"
+search:
+  boost: 2
 ---
 # Map
 

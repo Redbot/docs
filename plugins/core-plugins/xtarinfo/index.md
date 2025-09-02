@@ -8,6 +8,8 @@ config: "MQ2XTarInfo.ini"
 authors: "Knightly, eqmule"
 tagline: "XTarInfo shows distance for extended targets"
 acknowledgements: "eqmule, MQ2TargetInfo"
+search:
+  boost: 2
 ---
 # XTarInfo
 

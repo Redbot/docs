@@ -6,6 +6,8 @@ support_link: "https://www.redguides.com/community/threads/mq2labels.66843/"
 repository: "https://github.com/macroquest/macroquest/tree/master/src/plugins/labels"
 authors: "lax, amadeus, brainiac, eqmule, alynel, Knightly, dannuic"
 tagline: "Allows you to use MQ2Data within your EQ UI."
+search:
+  boost: 2
 ---
 # Labels
 <!--desc-start-->
