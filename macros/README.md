@@ -6,7 +6,7 @@ See [Getting Started](getting-started.md) for some introductory information abou
 
 ## Macro Fundamentals
 
-The MQ scripting language primarily involves the use of [Slash Commands](../reference/commands/index.md), [variables](variables.md), [Top-Level Objects](../reference/top-level-objects/) and some [Flow Control](flow-control.md) to help the macro along.
+The MQ scripting language primarily involves the use of [Slash Commands](../reference/commands/README.md), [variables](variables.md), [Top-Level Objects](../reference/top-level-objects/README.md) and some [Flow Control](flow-control.md) to help the macro along.
 
 Accessing and manipulating data can be done with:
 

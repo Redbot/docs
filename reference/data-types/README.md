@@ -5,7 +5,7 @@ search:
 
 # Data Types
 
-See Also: [Top Level Objects Reference](../top-level-objects/README.md).
+See Also: [Top Level Objects Reference](../top-level-objects/README.md). For a list of all Data Types on this site, see [All Data Types](../../../../datatypes/index.md)
 
 ## Data Type List
 

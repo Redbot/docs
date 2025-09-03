@@ -3,7 +3,9 @@ search:
     exclude: true
 ---
 
-# Slash Commands
+# MacroQuest Commands
+
+For an index of all commands on this site, see [All Commands](../../../../commands/index.md).
 
 ## Base
 

@@ -30,20 +30,20 @@ On RedGuides, MacroQuest is configured and packaged as "**Very Vanilla MQ**" for
 
 ## Reference
 
-[**Commands**](reference/commands/index.md) (1)  
+[**Commands**](reference/commands/README.md) (1)  
 [**Core Plugins**](plugins/core-plugins/README.md) (2)  
 [**Scripts**](../../scripts/index.md)  
 [**Config (MacroQuest.ini)**](main/macroquest.ini.md)  
-[**Top-Level Objects**](reference/top-level-objects/index.md) (3)  
-[**Data Types**](reference/data-types/index.md) (4)  
+[**Top-Level Objects**](reference/top-level-objects/README.md) (3)  
+[**Data Types**](reference/data-types/README.md) (4)  
 [**Launcher**](main/macroquest-launcher.md)  
 [**Building your own compile**](main/building.md)  
 { .annotate }
 
-1.  Core MacroQuest-only. For more, see [All Commands](../../commands/index.md).
-2.  Core MacroQuest-only. For more, see [All Plugins](../../plugins/index.md).
-3.  Core MacroQuest-only. For more, see [All TLOs](../../tlos/index.md).
-4.  Core MacroQuest-only. For more, see [All Data Types](../../datatypes/index.md).
+1.  MacroQuest-only. For more, see [All Commands](../../commands/index.md).
+2.  MacroQuest-only. For more, see [All Plugins](../../plugins/index.md).
+3.  MacroQuest-only. For more, see [All TLOs](../../tlos/index.md).
+4.  MacroQuest-only. For more, see [All Data Types](../../datatypes/index.md).
 
 ## Getting Started
 
