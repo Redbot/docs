@@ -36,7 +36,7 @@ On RedGuides, MacroQuest is configured and packaged as "**Very Vanilla MQ**" for
 [**Config (MacroQuest.ini)**](main/macroquest.ini.md)  
 [**Top-Level Objects**](reference/top-level-objects/index.md) (3)  
 [**Data Types**](reference/data-types/index.md) (4)  
-[**Launcher**](main/launcher.md)  
+[**Launcher**](main/macroquest-launcher.md)  
 [**Building your own compile**](main/building.md)  
 { .annotate }
 
