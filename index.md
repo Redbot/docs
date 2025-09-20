@@ -9,7 +9,10 @@ authors: "Plazmic, eqmule, brainiac, rswiders, Lax, ieatacid, dont_know_at_all, 
 tagline: "A platform for customization and automation of EverQuest"
 quick_start: "https://www.redguides.com/community/resources/multiboxing-everquest-the-red-guide-videos.1603/"
 ---
-
+<!--hide-edit-button-->
+<style>
+  .md-content__button { display: none; }
+</style>  
 # MacroQuest
 
 <!--desc-start-->
@@ -17,7 +20,7 @@ MacroQuest is an open source platform for customization, enhancement, and automa
 
 On RedGuides, MacroQuest is configured and packaged as "**Very Vanilla MQ**" for [Live](https://www.redguides.com/community/resources/very-vanilla-mq-live-servers.1974/), [Test](https://www.redguides.com/community/resources/very-vanilla-mq-test-server.2218/) and [Emulated](https://www.redguides.com/community/resources/very-vanilla-mq-emulated-servers.60/) servers.  
 
-*The docs here closely track the [official MacroQuest documentation](https://docs.macroquest.org), and the edit button on most pages but this one will send you to the parent repository.*
+*The docs here closely track the [official MacroQuest documentation](https://docs.macroquest.org), this page and the navigation being the largest exceptions.*
 <!--desc-end-->
 
 ## History
