@@ -1,4 +1,7 @@
-
+---
+search:
+  boost: 2
+---
 # Slot Names
 
 ## ItemSlot & ItemSlot2

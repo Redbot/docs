@@ -1,3 +1,7 @@
+---
+search:
+  boost: 2
+---
 # Body Types
 
 Body types are used in various commands, TLOs and Data Types. Each one is beautiful.

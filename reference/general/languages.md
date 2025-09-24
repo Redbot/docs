@@ -1,4 +1,7 @@
-
+---
+search:
+  boost: 2
+---
 # Languages
 
 List of languages.

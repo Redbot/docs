@@ -1,4 +1,7 @@
-
+---
+search:
+  boost: 2
+---
 # List of spawn heights
 
 * Ogre 9.00

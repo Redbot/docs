@@ -1,4 +1,7 @@
-
+---
+search:
+  boost: 2
+---
 # Containers List
 
 This is a list of all tradeskill containers.

@@ -1,3 +1,7 @@
+---
+search:
+  boost: 2
+---
 # Spawn Search
 
 All top-level objects, data types and commands that support searching for spawns can take the following options:

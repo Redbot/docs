@@ -1,3 +1,7 @@
+---
+search:
+  boost: 2
+---
 # Lua Scripting in MacroQuest
 
 Lua is in general a robust language with a multitude of tutorials and resources widely available:
