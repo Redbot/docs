@@ -20,6 +20,7 @@ MacroQuest.ini is the configuration file used by MacroQuest. By default it is st
     ParserEngine=1
     ShowMacroQuestConsole=1
     NetworkPeerPort=7781
+    DisableRedfetchCheck=true ; Disable the redfetch update check
     ```
 
 ### [Crash Handler]
