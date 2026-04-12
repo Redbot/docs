@@ -125,4 +125,5 @@ git clone -b master https://github.com/jessebevil/MQ2LootManager.git plugins/MQ2
 # Emu only
 git clone -b main https://github.com/Knightly1/MQGammaLess.git plugins/MQGammaLess
 git clone -b main https://github.com/Knightly1/MQMountClassicModels.git plugins/MQMountClassicModels
+git clone -b main https://github.com/Knightly1/MQXWorks.git plugins/MQXWorks
 ```
