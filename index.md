@@ -7,7 +7,7 @@ repository: "https://github.com/macroquest/macroquest"
 config: "MacroQuest.ini"
 authors: "Plazmic, eqmule, brainiac, rswiders, Lax, ieatacid, dont_know_at_all, Amadeus, dannuic, alynel, Knightly, ChatWithThisName, Sic, Xeniaz, htw"
 tagline: "A platform for customization and automation of EverQuest"
-quick_start: "https://www.redguides.com/community/resources/multiboxing-everquest-the-red-guide-videos.1603/"
+quick_start: "https://www.redguides.com/community/threads/redguides-nfo.95805/"
 ---
 <!--hide-edit-button-->
 <style>
