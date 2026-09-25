@@ -1,8 +1,6 @@
 # Developing MacroQuest
 
-!!! warning
+!!! tip "LLM Scripting Assistance"
+    Save REDGUIDES.md to the root of your project folder, and mention it to help guide your agent.
 
-    This content is outdated or incomplete.
-
-
-placeholder
+    [:material-download: REDGUIDES.md](/docs/REDGUIDES.md){ .md-button download="REDGUIDES.md" }

@@ -14,9 +14,6 @@ Lua is in general a robust language with a multitude of tutorials and resources 
 
 I won't cover language conventions or features, just mention that mq2lua is built on **LuaJIT 2.1.0** if you need to know the specific flavor.
 
-!!! tip "Robots writing your script?"
-    Save [REDGUIDES.md](https://raw.githubusercontent.com/RedGuides/readguides/master/REDGUIDES.md) to the root of your project folder, and mention it to help guide your agent.
-
 ### Command Reference
 
 ```plaintext
