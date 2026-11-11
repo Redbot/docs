@@ -23,7 +23,7 @@
       
       
       <link rel="icon" href="../../../images/logo.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.1">
     
     
       
@@ -31,10 +31,10 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.57a0d79d.min.css">
       
         
-        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.fb2fffe2.min.css">
       
       
 
@@ -17399,6 +17399,28 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#BuffDuration[name]" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BuffDuration[name]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#BuffDuration[#]" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BuffDuration[#]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#CanMount" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -18833,17 +18855,6 @@
     <span class="md-ellipsis">
       
         LanguageSkill[language]
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#LargestFreeInventory" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        LargestFreeInventory
       
     </span>
   </a>
@@ -23253,6 +23264,28 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#BuffDuration[name]" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BuffDuration[name]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#BuffDuration[#]" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BuffDuration[#]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#CanMount" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -24687,17 +24720,6 @@
     <span class="md-ellipsis">
       
         LanguageSkill[language]
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#LargestFreeInventory" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        LargestFreeInventory
       
     </span>
   </a>
@@ -26707,6 +26729,14 @@ If something is missing here, you can check the source to see if it exists.</p>
 <dl>
 <dd>The buff in this slot #</dd>
 </dl>
+<h3 id="BuffDuration[name]"><a href="../datatype-timestamp/">timestamp</a> <code>BuffDuration[name]</code><a class="headerlink" href="#BuffDuration[name]" title="Permanent link">&para;</a></h3>
+<dl>
+<dd>Override on the Spawn version for consistency. The time remaining on the buff or song matching this name. The name is matched as a case-insensitive substring; prefix <code>=</code> to require a case-insensitive exact match instead. Consistent with <code>Me.Buff[name].Duration</code>.</dd>
+</dl>
+<h3 id="BuffDuration[#]"><a href="../datatype-timestamp/">timestamp</a> <code>BuffDuration[#]</code><a class="headerlink" href="#BuffDuration[#]" title="Permanent link">&para;</a></h3>
+<dl>
+<dd>Override on the Spawn version for consistency. The time remaining on the buff or song in this slot #. Slots are numbered from 1 and span the long-duration buffs followed by the short-duration (song) buffs.</dd>
+</dl>
 <h3 id="CanMount"><a href="../datatype-bool/">bool</a> <code>CanMount</code><a class="headerlink" href="#CanMount" title="Permanent link">&para;</a></h3>
 <dl>
 <dd>Can you use a mount here?</dd>
@@ -27262,21 +27292,17 @@ If something is missing here, you can check the source to see if it exists.</p>
 <dl>
 <dd>Level of Spell Awareness of the current group leader (not your own ability level)</dd>
 </dl>
-<h3 id="Language[language" name_="name]"><a href="../datatype-int/">int</a> <code>Language[language name]</code><a class="headerlink" href="#Language[language" title="Permanent link">&para;</a></h3>
+<h3 id="Language[language" name_><a href="../datatype-int/">int</a> <code>Language[language name]</code><a class="headerlink" href="#Language[language" title="Permanent link">&para;</a></h3>
 <dl>
 <dd>The EQ language number of the specified language. See <a href="../../general/languages/">languages</a>.</dd>
 </dl>
-<h3 id="Language[language" number_="number]"><a href="../datatype-string/">string</a> <code>Language[language number]</code><a class="headerlink" href="#Language[language" title="Permanent link">&para;</a></h3>
+<h3 id="Language[language" number_><a href="../datatype-string/">string</a> <code>Language[language number]</code><a class="headerlink" href="#Language[language" title="Permanent link">&para;</a></h3>
 <dl>
 <dd>Returns the EQ language name of the language number specified. See <a href="../../general/languages/">languages</a>.</dd>
 </dl>
 <h3 id="LanguageSkill[language]"><a href="../datatype-int/">int</a> <code>LanguageSkill[language]</code><a class="headerlink" href="#LanguageSkill[language]" title="Permanent link">&para;</a></h3>
 <dl>
 <dd>Your skill in language</dd>
-</dl>
-<h3 id="LargestFreeInventory"><a href="../datatype-int/">int</a> <code>LargestFreeInventory</code><a class="headerlink" href="#LargestFreeInventory" title="Permanent link">&para;</a></h3>
-<dl>
-<dd>Size of your largest free inventory space</dd>
 </dl>
 <h3 id="LargestFreeInventory"><a href="../datatype-int/">int</a> <code>LargestFreeInventory</code><a class="headerlink" href="#LargestFreeInventory" title="Permanent link">&para;</a></h3>
 <dl>
@@ -27992,10 +28018,10 @@ If something is missing here, you can check the source to see if it exists.</p>
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["content.action.edit", "navigation.tabs", "search.highlight", "search.share", "navigation.instant", "navigation.indexes", "navigation.top"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["content.action.edit", "navigation.tabs", "search.highlight", "search.share", "navigation.instant", "navigation.indexes", "navigation.top"], "search": "../../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.a5f9d56c.min.js"></script>
       
     
   </body>

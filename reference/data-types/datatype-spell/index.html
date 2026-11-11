@@ -23,7 +23,7 @@
       
       
       <link rel="icon" href="../../../images/logo.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.1">
     
     
       
@@ -31,10 +31,10 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.57a0d79d.min.css">
       
         
-        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.fb2fffe2.min.css">
       
       
 
@@ -18795,6 +18795,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#PreventsRegen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PreventsRegen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#PushBack" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -20327,6 +20338,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#PreventsRegen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PreventsRegen
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#PushBack" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -20814,7 +20836,7 @@
 </dl>
 <h3 id="Beneficial"><a href="../datatype-bool/">bool</a> <code>Beneficial</code><a class="headerlink" href="#Beneficial" title="Permanent link">&para;</a></h3>
 <dl>
-<dd>???</dd>
+<dd>Returns true if the spell is beneficial (or beneficial group)</dd>
 </dl>
 <h3 id="BookIcon"><a href="../datatype-int/">int</a> <code>BookIcon</code><a class="headerlink" href="#BookIcon" title="Permanent link">&para;</a></h3>
 <dl>
@@ -20991,6 +21013,10 @@
 <h3 id="NumEffects"><a href="../datatype-int/">int</a> <code>NumEffects</code><a class="headerlink" href="#NumEffects" title="Permanent link">&para;</a></h3>
 <dl>
 <dd>???</dd>
+</dl>
+<h3 id="PreventsRegen"><a href="../datatype-bool/">bool</a> <code>PreventsRegen</code><a class="headerlink" href="#PreventsRegen" title="Permanent link">&para;</a></h3>
+<dl>
+<dd>Returns true if the spell is a detrimental effect that prevents OOC regen</dd>
 </dl>
 <h3 id="PushBack"><a href="../datatype-float/">float</a> <code>PushBack</code><a class="headerlink" href="#PushBack" title="Permanent link">&para;</a></h3>
 <dl>
@@ -21237,7 +21263,7 @@ I have the Certitude Rk. II version of Ceritude.
 My version of Rest is: Rest Rk. II
 </code></pre></div></p>
 <p>To cast a spell with the proper rank, use the following:</p>
-<div class="language-text highlight"><pre><span></span><code>/cast &quot;${Spell[Vinespur].RankName}&quot;
+<div class="language-text highlight"><pre><span></span><code>/cast "${Spell[Vinespur].RankName}"
 </code></pre></div>
 <!--dt-linkrefs-start-->
 <!--dt-linkrefs-end-->
@@ -21303,10 +21329,10 @@ My version of Rest is: Rest Rk. II
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["content.action.edit", "navigation.tabs", "search.highlight", "search.share", "navigation.instant", "navigation.indexes", "navigation.top"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["content.action.edit", "navigation.tabs", "search.highlight", "search.share", "navigation.instant", "navigation.indexes", "navigation.top"], "search": "../../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.a5f9d56c.min.js"></script>
       
     
   </body>
